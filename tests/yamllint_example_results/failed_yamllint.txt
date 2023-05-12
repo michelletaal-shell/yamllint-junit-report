@@ -1,0 +1,4 @@
+.yamllint.yml:1:1: [warning] missing document start "---" (document-start)
+.yamllint.yml:1:7: [error] wrong new line character: expected \n (new-lines)
+.yamllint.yml:7:32: [warning] too few spaces before comment (comments)
+.yamllint.yml:7:81: [error] line too long (114 > 80 characters) (line-length)
