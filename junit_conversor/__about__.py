@@ -1,0 +1,6 @@
+__title__ = 'yamllint-junit-report'
+__summary__ = 'Simple tool that converts a yamllint file to junit format'
+__version__ = '1.0.0'
+__uri__ = 'https://github.com/sede-x/yamllint-junit-report'
+__author__ = 'Michelle A. Taal'
+__email__ = 'michelletaal@shell.com'
